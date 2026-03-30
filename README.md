@@ -1,2 +1,2 @@
-№# second_project
+# second_project
 Terraform second project
